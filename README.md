@@ -1,7 +1,7 @@
 # health-data-analysis
 # Apple Health Data Extractor, Data Analysis,
 
-This project can help you convert your Apple Health data into something useful and usable! The code has been broken down into separate scripts to handle the process step-by-step. 
+This project can help you convert your Apple Health data into CSV files! The code has been broken down into separate scripts to handle the process step-by-step. 
 
 
 
